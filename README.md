@@ -1,3 +1,7 @@
+<p align="center">
+  <img src = "./oldcollege.png" alt = "My School" width= "50%" height = "50%">
+</p>
+
 ## Hi there, I am Francois Van Der Merwe
 
 <!--
