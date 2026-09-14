@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 -->
 
 ## Certificate
+<p align="left">
+  <img src = "./images/NSLS_Logo_750px.webp" alt= "My NSLS membership" width = "10%" height = "10%">
+</p>
 
 ## Projects
 
